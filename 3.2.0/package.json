@@ -1,0 +1,10 @@
+{
+  "name": "yarn-workspace-portal-issue-3-2-0",
+  "packageManager": "yarn@3.2.0",
+  "dependencies": {
+    "workspace-b": "portal:../workspace/workspace-b"
+  },
+  "resolutions": {
+    "workspace-b/workspace-a": "portal:../workspace/workspace-a"
+  }
+}
